@@ -1,2 +1,2 @@
 
-# https://novemberman90.github.io/rsschool-cv/
+# https://novemberman90.github.io/rsschool-cv/cv.md
