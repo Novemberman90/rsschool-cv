@@ -1,1 +1,1 @@
-#  Novemberman90..github.io/rsschool-cv/cv
+#  Novemberman90.github.io/rsschool-cv/cv
