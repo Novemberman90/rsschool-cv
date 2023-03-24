@@ -22,3 +22,17 @@ besides there’s a huge amount of free high quality resources for self-educatio
 I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.<br>
 
 ---
+
+### Skills and Proficiency:
+
+- HTML5, CSS3
+- JavaScript Basics
+- Git, GitHub
+
+---
+
+### Languages:
+
+- English \- Intermediate
+- Russian \- Native
+- Ukrainian \- Native
