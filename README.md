@@ -1,1 +1,1 @@
-# https://github.com/Novemberman90/rsschool-cv/blob/gh-pages/cv.md
+#  Novemberman90..github.io/rsschool-cv/cv
